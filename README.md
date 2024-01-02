@@ -1,5 +1,5 @@
-# Python-projects
+# Python-old-projects
 
 print("Welcome guest!")
 
-here i will post projects using python in progress
+Old beginner python projects
